@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.BelyaevNM.Sprint0.Task6.V0.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77b6a69555ac5592a3da20310c9e595ca15a563")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5924ef0e93e25f429a43645c7175cb46b110c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.BelyaevNM.Sprint0.Task6.V0.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.BelyaevNM.Sprint0.Task6.V0.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
