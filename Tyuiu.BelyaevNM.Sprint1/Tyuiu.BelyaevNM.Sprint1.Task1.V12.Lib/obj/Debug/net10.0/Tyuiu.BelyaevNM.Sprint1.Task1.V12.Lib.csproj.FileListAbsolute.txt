@@ -1,0 +1,12 @@
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\bin\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.deps.json
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\bin\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.dll
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\bin\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.pdb
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.AssemblyInfoInputs.cache
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.AssemblyInfo.cs
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.csproj.CoreCompileInputs.cache
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.sourcelink.json
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.dll
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\refint\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.dll
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.pdb
+C:\Users\mikem\Desktop\Sprint0\Tyuiu.BelyaevNM.Sprint1\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib\obj\Debug\net10.0\ref\Tyuiu.BelyaevNM.Sprint1.Task1.V12.Lib.dll
